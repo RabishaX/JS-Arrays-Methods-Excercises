@@ -19,7 +19,7 @@ To build strong fundamentals in JavaScript array manipulation through hands-on p
 ## 📂 Project Structure
 
 ```
-js-array-exercises/
+js-arrays/
 │
 ├── beginner/
 ├── intermediate/
