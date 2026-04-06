@@ -12,7 +12,7 @@ A structured collection of JavaScript exercises focused on mastering core array 
 
 ## 🎯 Objective
 
-To build strong fundamentals in JavaScript array manipulation through hands-on practice and real-world scenarios.
+To strengthen my JavaScript fundamentals by practicing array methods through real-world problems and logical scenarios.
 
 ---
 
@@ -35,53 +35,61 @@ js-array-exercises/
 
 Covers:
 
-* Basic syntax and usage
-* Simple transformations
+* Basic syntax and understanding
 * Iteration using `forEach`
+* Simple transformations using `map`
+* Basic filtering and searching
 
 ---
 
 ## 🟡 Intermediate Level
 
-🚧 In Progress
+✅ Completed
 
 Covers:
 
-* Combining multiple array methods
-* Logic building
-* Data transformation
+* Combining `filter()` and `map()`
+* Working with arrays of objects
+* Conditional logic handling
+* Data formatting and transformation
 
 ---
 
 ## 🔴 Advanced Level
 
-⏳ Coming Soon
+🚧 In Progress
 
 Covers:
 
-* Real-world scenarios
-* Multi-step problem solving
+* Real-world problem solving
+* Multi-step logic using multiple array methods
 * Edge case handling (`undefined`, `-1`)
+* Performance-focused thinking
 
 ---
 
 ## 💡 Example Exercise
 
 ```js
-// Problem: Get all scores above 50
-const scores = [45, 67, 89, 34, 55];
+// Problem: Get users with score ≥ 60 and format output
+
+const users = [
+  { name: "Alice", score: 58 },
+  { name: "Bob", score: 65 },
+  { name: "Charlie", score: 72 }
+];
 
 // Expected Output:
-[67, 89, 55]
+["Bob: 65", "Charlie: 72"]
 ```
 
 ---
 
 ## 📈 Learning Outcomes
 
-* Improved problem-solving skills
-* Strong grip on array methods
-* Clean and readable JavaScript code practices
+* Strong understanding of array methods
+* Improved problem-solving ability
+* Writing clean and readable JavaScript code
 
 ---
 
@@ -91,21 +99,29 @@ const scores = [45, 67, 89, 34, 55];
 
 ---
 
-## 📌 Future Improvements
+## 📌 Current Progress
+
+* 🟢 Beginner: ✅ Completed
+* 🟡 Intermediate: ✅ Completed
+* 🔴 Advanced: 🚧 In Progress
+
+---
+
+## 🔮 Future Improvements
 
 * Add solutions in a separate branch
 * Convert exercises into mini projects
-* Add UI-based practice (HTML/CSS + JS)
+* Build UI-based implementations using HTML/CSS + JS
 
 ---
 
 ## 👩‍💻 Author
 
 **Rabisha**
-Aspiring Software Engineer | Passionate about Coding & Growth
+Aspiring Full Stack Developer | Continuous Learner
 
 ---
 
 ## ⭐ Support
 
-If you find this helpful, consider giving it a ⭐ — it helps grow and stay motivated!
+If you find this helpful, consider giving it a ⭐ on GitHub!
