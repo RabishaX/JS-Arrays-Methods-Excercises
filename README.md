@@ -19,7 +19,7 @@ To strengthen my JavaScript fundamentals by practicing array methods through rea
 ## 📂 Project Structure
 
 ```
-js-array-exercises/
+js-arrays/
 │
 ├── beginner/
 ├── intermediate/
